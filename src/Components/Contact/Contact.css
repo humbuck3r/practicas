@@ -1,0 +1,16 @@
+.formu{
+   display: flex;
+   justify-content: center;
+   margin-top: 3em;
+}
+
+
+fieldset {
+     min-width: 0;
+     padding: 3em; 
+     margin: 0; 
+     border: 1px solid black;
+     border-radius: 5%;
+     box-shadow: 10px 8px 10px black;
+     width: 30em; 
+};
